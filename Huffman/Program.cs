@@ -10,9 +10,12 @@ namespace Huffman
         {
             var encoder = new Encoder();
             string line;
-            var reader = new StreamReader("huffman.txt");
-            while ((line=reader.ReadLine()) != null ){
-                encoder.AddSymbol(int.Parse(line));
+            using (var reader = new StreamReader("huffman.txt"))
+            {
+                while ((line = reader.ReadLine()) != null)
+                {
+                    encoder.AddSymbol(int.Parse(line));
+                }
             }
             encoder.Encode();
             Console.WriteLine($"{encoder.MinWordLength}, {encoder.MaxWordLength}");
