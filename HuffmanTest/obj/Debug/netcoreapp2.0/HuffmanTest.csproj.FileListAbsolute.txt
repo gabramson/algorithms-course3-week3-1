@@ -1,0 +1,16 @@
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\obj\Debug\netcoreapp2.0\HuffmanTest.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\obj\Debug\netcoreapp2.0\HuffmanTest.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\obj\Debug\netcoreapp2.0\HuffmanTest.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\obj\Debug\netcoreapp2.0\HuffmanTest.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\HuffmanTest.deps.json
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\HuffmanTest.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\HuffmanTest.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\HuffmanTest.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\HuffmanTest.pdb
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\HuffmanLib.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\bin\Debug\netcoreapp2.0\HuffmanLib.pdb
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\obj\Debug\netcoreapp2.0\HuffmanTest.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\HuffmanTest\obj\Debug\netcoreapp2.0\HuffmanTest.pdb

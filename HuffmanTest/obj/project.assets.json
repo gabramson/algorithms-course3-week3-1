@@ -1600,6 +1600,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "HuffmanLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/HuffmanLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HuffmanLib.dll": {}
+        }
       }
     }
   },
@@ -5610,10 +5620,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "HuffmanLib/1.0.0": {
+      "type": "project",
+      "path": "../HuffmanLib/HuffmanLib.csproj",
+      "msbuildProject": "../HuffmanLib/HuffmanLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "HuffmanLib >= 1.0.0",
       "MSTest.TestAdapter >= 1.1.18",
       "MSTest.TestFramework >= 1.1.18",
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170628-02",
@@ -5621,7 +5637,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gary\\.nuget\\packages\\": {},
+    "C:\\Users\\garya\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5630,17 +5646,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanTest\\HuffmanTest.csproj",
+      "projectUniqueName": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanTest\\HuffmanTest.csproj",
       "projectName": "HuffmanTest",
-      "projectPath": "D:\\Projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanTest\\HuffmanTest.csproj",
-      "packagesPath": "C:\\Users\\Gary\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanTest\\obj\\",
+      "projectPath": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanTest\\HuffmanTest.csproj",
+      "packagesPath": "C:\\Users\\garya\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\garya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5652,7 +5668,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanLib\\HuffmanLib.csproj": {
+              "projectPath": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanLib\\HuffmanLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

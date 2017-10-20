@@ -1,0 +1,13 @@
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\bin\Debug\netcoreapp2.0\Huffman.deps.json
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\bin\Debug\netcoreapp2.0\Huffman.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\bin\Debug\netcoreapp2.0\Huffman.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\bin\Debug\netcoreapp2.0\Huffman.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\bin\Debug\netcoreapp2.0\Huffman.pdb
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\obj\Debug\netcoreapp2.0\Huffman.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\obj\Debug\netcoreapp2.0\Huffman.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\obj\Debug\netcoreapp2.0\Huffman.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\obj\Debug\netcoreapp2.0\Huffman.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\obj\Debug\netcoreapp2.0\Huffman.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\obj\Debug\netcoreapp2.0\Huffman.pdb
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\bin\Debug\netcoreapp2.0\HuffmanLib.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-1\Huffman\bin\Debug\netcoreapp2.0\HuffmanLib.pdb

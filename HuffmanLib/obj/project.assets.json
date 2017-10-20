@@ -196,16 +196,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "HuffmanLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/HuffmanLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HuffmanLib.dll": {}
-        }
       }
     }
   },
@@ -666,16 +656,10 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "HuffmanLib/1.0.0": {
-      "type": "project",
-      "path": "../HuffmanLib/HuffmanLib.csproj",
-      "msbuildProject": "../HuffmanLib/HuffmanLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "HuffmanLib >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -689,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\Huffman\\Huffman.csproj",
-      "projectName": "Huffman",
-      "projectPath": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\Huffman\\Huffman.csproj",
+      "projectUniqueName": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanLib\\HuffmanLib.csproj",
+      "projectName": "HuffmanLib",
+      "projectPath": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanLib\\HuffmanLib.csproj",
       "packagesPath": "C:\\Users\\garya\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\Huffman\\obj\\",
+      "outputPath": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -711,11 +695,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanLib\\HuffmanLib.csproj": {
-              "projectPath": "C:\\projects\\C#\\Coursera\\algorithms-course3\\week3-1\\HuffmanLib\\HuffmanLib.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -728,6 +708,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "2.0.0",
             "autoReferenced": true
